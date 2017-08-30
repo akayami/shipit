@@ -7,21 +7,21 @@
     "test": "test"
   },
   "dependencies": {
-    "async": "~0.2.10",
-    "change-case": "~1.0.5",
-    "cheerio": "~0.13.1",
+    "async": "^2.5.0",
+    "change-case": "^3.0.1",
+    "cheerio": "^1.0.0-rc.2",
     "grunt": "~0.4.2",
     "grunt-contrib-coffee": "~0.10.0",
-    "moment-timezone": "~0.4.0",
-    "request": "~2.33.0",
-    "underscore": "~1.5.2",
+    "moment-timezone": "^0.5.13",
+    "request": "^2.81.0",
+    "underscore": "^1.8.3",
     "xml2js": "~0.4.1"
   },
   "devDependencies": {
-    "bondjs": "~1.0.0",
-    "chai": "~1.9.0",
+    "bondjs": "~2.0.0",
+    "chai": "~4.1.0",
     "grunt-mocha-test": "~0.6.3",
-    "mocha": "~1.17.1"
+    "mocha": "~3.5.0"
   },
   "scripts": {
     "test": "grunt"
