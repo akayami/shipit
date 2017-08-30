@@ -24,7 +24,7 @@
     "mocha": "~3.5.0"
   },
   "scripts": {
-    "test": "grunt"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
